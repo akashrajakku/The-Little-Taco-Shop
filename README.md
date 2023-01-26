@@ -2,3 +2,4 @@
 Mini project made with help of only HTML and a bit of CSS
 
 I have made this project by mostly using HTML tags . This is a basic project on "The Little Taco Shop"
+It contains 3 webpages and is currently un-hosted on server
